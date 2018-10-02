@@ -4,7 +4,7 @@ you would like to look at (cf=cash flow, bs=balance sheet, is=income statement) 
 how the digits in the financial statement differ from Benford's distribution.
 
 <h2>Benford's distribution of digits</h2>
-Due to a counting system based on the base of 10 digits closer to 1 appear more frequently rather than being equally distributed. Benford's law demonstrates this phenomenon in everything from Newton's gravitational constant to financial accounting statements.
+Due to a counting system structured in the base of 10, digits closer to 1 appear more frequently rather than being equally distributed. Benford's law demonstrates this phenomenon in everything from Newton's gravitational constant to financial accounting statements.
 
 ![benford1](https://github.com/v-for-vasya/Benfords-law/blob/master/img/benford1.png)
 
